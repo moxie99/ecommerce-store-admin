@@ -1,6 +1,6 @@
-# Your E-commerce App Name
+# E-commerce App 
 
-Short description or tagline of your project.
+Short description or tagline of your project: 
 
 ## Table of Contents
 
